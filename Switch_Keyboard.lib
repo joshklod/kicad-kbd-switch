@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# SW_Keyboard
+#
+DEF SW_Keyboard KS 0 0 N Y 1 F N
+F0 "KS" 50 100 50 H V L BNN
+F1 "SW_Keyboard" 0 -50 50 H V C TNN
+F2 "" 0 -125 50 H I C TNN
+F3 "" 0 -200 50 H I C TNN
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+X C 1 -200 0 100 R 50 50 0 1 P
+X R 2 200 0 100 L 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+# SW_Keyboard_Diode
+#
+DEF SW_Keyboard_Diode KS 0 0 N Y 1 F N
+F0 "KS" 0 -50 50 H V C TNN
+F1 "SW_Keyboard_Diode" 0 150 50 H V C BNN
+F2 "" 0 225 50 H I C BNN
+F3 "" 0 300 50 H I C BNN
+DRAW
+C -80 0 20 0 1 0 N
+C 80 0 20 0 1 0 N
+P 2 0 1 0 0 50 0 120 N
+P 2 0 1 0 100 50 -100 50 N
+P 2 0 1 0 160 -180 240 -180 N
+P 3 0 1 0 100 0 200 0 200 -200 N
+P 4 0 1 0 200 -180 160 -120 240 -120 200 -180 N
+X C 1 -200 0 100 R 50 50 0 1 P
+X R 2 200 -300 100 U 50 50 0 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
