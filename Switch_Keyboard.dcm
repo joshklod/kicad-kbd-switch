@@ -15,6 +15,54 @@ D Push button switch, keyboard, w/ anti-ghosting diode and LED
 K switch normally-open pushbutton push-button MX Cherry ALPS Matias
 $ENDCMP
 #
+$CMP SW_Keyboard_Diode_RGB_ARGB
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Anode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_BARG
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Anode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_BGRA
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Anode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_CRGB
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Cathode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_RABG
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Anode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_RAGB
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Anode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_RCBG
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Cathode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_Diode_RGB_RCGB
+D Push button switch, keyboard, w/ anti-ghosting diode and RGB LED, Common-Cathode
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
 $CMP SW_Keyboard_LED
 D Push button switch, keyboard, w/ LED
 K switch normally-open pushbutton push-button MX Cherry ALPS Matias
