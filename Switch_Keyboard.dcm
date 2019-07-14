@@ -10,4 +10,14 @@ D Push button switch, keyboard, w/ anti-ghosting diode
 K switch normally-open pushbutton push-button MX Cherry ALPS Matias
 $ENDCMP
 #
+$CMP SW_Keyboard_Diode_LED
+D Push button switch, keyboard, w/ anti-ghosting diode and LED
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+$ENDCMP
+#
+$CMP SW_Keyboard_LED
+D Push button switch, keyboard, w/ LED
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+$ENDCMP
+#
 #End Doc Library
