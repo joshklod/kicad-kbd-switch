@@ -140,4 +140,28 @@ K switch normally-open pushbutton push-button MX Cherry ALPS Matias
 F Data
 $ENDCMP
 #
+$CMP SW_Keyboard_RGB_Serial_2813
+D Push button switch, keyboard, w/ RGB LED, WS2813-style serial control
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_RGB_Serial_4pin
+D Push button switch, keyboard, w/ RGB LED, 4-pin serial control
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_RGB_Serial_6pin
+D Push button switch, keyboard, w/ RGB LED, 6-pin serial control
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
+$CMP SW_Keyboard_RGB_Serial_SPI
+D Push button switch, keyboard, w/ RGB LED, SPI controlled
+K switch normally-open pushbutton push-button MX Cherry ALPS Matias
+F Data
+$ENDCMP
+#
 #End Doc Library
