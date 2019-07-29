@@ -1,4 +1,4 @@
-(module SW_ALPS_Multi_0.125u (layer F.Cu) (tedit 5D31E47D)
+(module SW_ALPS_Multi_0.125u (layer F.Cu) (tedit 5D3F5334)
   (fp_text reference REF** (at 1.19063 7.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -46,6 +46,4 @@
   (pad 1 thru_hole circle (at 2.5 -4.5) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -0.11874 -4) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 4.88126 -4.5) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
-  (pad 1 smd oval (at 3.69063 -4.5) (size 2.5 0.5) (layers F.Cu))
-  (pad 2 smd oval (at -1.30937 -4) (size 2.5 0.5) (layers F.Cu))
 )

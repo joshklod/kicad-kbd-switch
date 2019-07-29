@@ -1,4 +1,4 @@
-(module SW_Hybrid_Multi_0.125u_PCB (layer F.Cu) (tedit 5D35DA1B)
+(module SW_Hybrid_Multi_0.125u_PCB (layer F.Cu) (tedit 5D3F5345)
   (fp_text reference REF** (at 1.190625 8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -77,7 +77,6 @@
     (solder_mask_margin 1.85) (clearance 1.95))
   (pad "" np_thru_hole circle (at 0 0) (size 0.5 0.5) (drill 0.5) (layers *.Cu *.Mask)
     (solder_mask_margin 1.85) (clearance 1.95))
-  (pad 1 smd oval (at 3.710625 -4.79 356.1) (size 2.38125 0.5) (layers F.Cu))
   (pad 2 smd roundrect (at -1.250529 -2.783899 37.5) (size 2.122 1.65) (drill (offset 0.83 0)) (layers F.Cu F.Mask) (roundrect_rratio 0.14))
   (pad 2 thru_hole circle (at -3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at -2.5 -4) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask))
